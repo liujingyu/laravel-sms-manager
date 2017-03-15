@@ -18,7 +18,8 @@
         "superman2014/aliyun-php-sdk-sms": "dev-master",
         "ext-openssl": "*",
         "illuminate/support": "5.3.*",
-        "php": ">=5.6.0"
+        "php": ">=5.6.0",
+        "illuminate/events": "5.3.*"
     },
     "extra": {
         "branch-alias": {
